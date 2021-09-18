@@ -1,0 +1,23 @@
+---
+title: "Docencia"
+description: |
+  Mi experiencia en docencia universitaria se ha desarrollado a nivel de grado y de posgrado, tanto en cursos vinculados al análisis de datos como en otros enfocados en economía laboral y desarrollo.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Posgrado
+
+- Análisis de Redes Sociales - Maestría en Economía - FCEA - UdelaR.
+  - Desde 2018 imparto este curso junto con el Dr. Pablo Galaso. Existe una versión en línea del curso que puede ser consultada en este [link](<https://sergio-palomeque.github.io/ARS_Course/>).
+- Tópicos de Economía Laboral - Maestría en Economía - FCEA - UdelaR.
+  - Desde 2017 participo en este curso junto con el Dr. Rodrigo Ceni y el Dr.(c) Andrés Dean.
+
+# Grado
+
+- Desarrollo y Bienestar - Licenciatura en Economía - FCEA - UdelaR.
+  - Desde 2021 participo en este curso basado en algunos capítulos de [La Economía](<https://www.core-econ.org/the-economy/es/>)
+- Bases de Datos y Paquetes - Licenciatura en Economía - FCEA - UdelaR.
+  - Desde 2017 forma parte del equipo de este curso, donde acercamos a los estudiantes al uso de paquetes estadísticos y econométricos aplicados a la economía. Actualmente soy el responsable del módulo sobre el software estadístico [*R*](<https://www.r-project.org/>).
