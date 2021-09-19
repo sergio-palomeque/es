@@ -3,11 +3,15 @@ title: "¡Bienvenidos!"
 description: |
   ![](sp.jpeg){width=100px}
   
-  Mi nombre es Sergio Palomeque, soy docente e investigador del [Departamento de Economía de FCEA-UdelaR](http://fcea.edu.uy/departamentos/departamento-de-economia.html) y estudiante de doctorado de [FCE-UBA](http://www.economicas.uba.ar/doctorado/). En este sitio podrán acceder a información sobre mis áreas de investigación, publicaciones, trabajos en marcha, materiales didácticos y cursos.
+  Mi nombre es Sergio Palomeque, soy docente e investigador del [Departamento de Economía de FCEA-UdelaR](http://fcea.edu.uy/departamentos/departamento-de-economia.html), donde obtuve mi grado y maestría en economía. Actualmente realizo mis estudios de doctorado en [FCE-UBA](http://www.economicas.uba.ar/doctorado/). 
+  
+  En este sitio podrán acceder a información sobre mis áreas de investigación, publicaciones, trabajos en marcha, materiales didácticos y cursos.
+  
+  Los medios para contactarme y saber más sobre mi son:
   
   sergio.palomeque@fcea.edu.uy
   
-  [![](orcid.png){width=30px}](https://orcid.org/0000-0002-5396-3578)  [![](sc.png){width=30px}](https://www.scopus.com/authid/detail.uri?authorId=57220006530)  [![](git.png){width=30px}](https://github.com/sergio-palomeque)  [![](tw.png){width=30px}](https://twitter.com/sergi_palomeque)  [![](cvuy.png){width=30px}](https://exportcvuy.anii.org.uy/cv/?4d1d53606c249c31e34388c44e7fc037da7e975686b0c0f01ce38f187b1d7f652ecd964138d57f7fccd37706e6fd07c11de0e83087b8c20e109d168b3b8ddfc2)  
+  [![](orcid.png){width=30px}](https://orcid.org/0000-0002-5396-3578)   [![](sc.png){width=30px}](https://www.scopus.com/authid/detail.uri?authorId=57220006530)   [![](git.png){width=30px}](https://github.com/sergio-palomeque)   [![](rg.png){width=30px}](https://www.researchgate.net/profile/Sergio-Palomeque)   [![](cvuy.png){width=30px}](https://exportcvuy.anii.org.uy/cv/?4d1d53606c249c31e34388c44e7fc037da7e975686b0c0f01ce38f187b1d7f652ecd964138d57f7fccd37706e6fd07c11de0e83087b8c20e109d168b3b8ddfc2)   [![](tw.png){width=30px}](https://twitter.com/sergi_palomeque)  
 
 site: distill::distill_website
 ---
