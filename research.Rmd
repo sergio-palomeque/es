@@ -36,10 +36,14 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Documentos de trabajo
 
-- Bianchi, C., Galaso, P., & Palomeque, S. Absorptive capacities and external openness in underdeveloped Innovation Systems: A patent network analysis for Latin American countries 1970-2017. En proceso de revisión de pares desde febrero de 2021 (ID number CJE-2021-059) en el *Cambridge Journal of Economics*; [Link](<https://academic.oup.com/cje>)
 - Bianchi, C., Galaso, P., Palomeque, S., Picasso, S., & Rodríguez, A. (2021). Invención y patentes en Uruguay: evidencia empírica entre 1970 y 2018. *Serie Documentos de Trabajo*. Montevideo.
 - Bianchi, C., Galaso, P., Palomeque, S. (2021) “The tradeoffs of brokerage in innovation networks: a study of Latin American cities”. *Serie Documentos de Trabajo*, DT 21/2021. Instituto de Economía, Facultad de Ciencias Económicas y Administración, Universidad de la República, Uruguay. [Link](<http://www.iecon.ccee.edu.uy/dt-21-21-the-tradeoffs-of-brokerage-in-innovation-networks-a-study-of-latin-american-cities/publicacion/841/es/>)
 - Bianchi, C., Galaso, P., Palomeque, S. (2020) “Invention and Collaboration Networks in Latin America: Evidence from Patent Data”. *Serie Documentos de Trabajo*, DT 04/2020. Instituto de Economía, Facultad de Ciencias Económicas y Administración, Universidad de la República, Uruguay. [Link](<http://www.iecon.ccee.edu.uy/dt-04-20-invention-and-collaboration-networks-in-latin-america-evidence-from-patent-data/publicacion/724/es/>)
+
+# Trabajos en revisión de pares
+
+- Bianchi, C., Galaso, P., & Palomeque, S. Absorptive capacities and external openness in underdeveloped Innovation Systems: A patent network analysis for Latin American countries 1970-2017. En proceso de revisión de pares desde febrero de 2021 (ID number CJE-2021-059) en el *Cambridge Journal of Economics*; [Link](<https://academic.oup.com/cje>)
+
 
 # Trabajos en marcha
 
