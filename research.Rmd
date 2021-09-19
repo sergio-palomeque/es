@@ -44,7 +44,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - Bianchi, C., Galaso, P., & Palomeque, S. Absorptive capacities and external openness in underdeveloped Innovation Systems: A patent network analysis for Latin American countries 1970-2017. En proceso de revisión de pares desde febrero de 2021 (ID number CJE-2021-059) en el *Cambridge Journal of Economics*; [Link](<https://academic.oup.com/cje>)
 
-
 # Trabajos en marcha
 
 - Galaso, P., Palomeque, S., & Picasso, S. How to find the A-Team. A methodological proposal for identifying teams in co-authorship networks. Revista objetivo: *Social Networks*; [Link](https://www.journals.elsevier.com/social-networks)
