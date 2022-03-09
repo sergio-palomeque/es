@@ -3,7 +3,7 @@ title: "¡Bienvenidos!"
 description: |
   ![](sp.jpeg){width=100px}
   
-  Mi nombre es Sergio Palomeque, soy docente e investigador del [Departamento de Economía de FCEA-UdelaR](http://fcea.edu.uy/departamentos/departamento-de-economia.html), donde obtuve mi grado y maestría en economía. Actualmente realizo mis estudios de doctorado en [FCE-UBA](http://www.economicas.uba.ar/doctorado/). 
+  Mi nombre es Sergio Palomeque, soy docente e investigador del [Departamento de Economía de FCEA-UdelaR](http://fcea.edu.uy/departamentos/departamento-de-economia.html), donde obtuve mi grado y maestría en economía. Actualmente realizo estudios de doctorado en [FCE-UBA](http://www.economicas.uba.ar/doctorado/). 
   
   En este sitio podrán acceder a información sobre mis áreas de investigación, publicaciones, trabajos en marcha, materiales didácticos y cursos.
   
