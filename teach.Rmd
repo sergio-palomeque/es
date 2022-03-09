@@ -1,7 +1,7 @@
 ---
 title: "Docencia"
 description: |
-  Mi experiencia en docencia universitaria se ha desarrollado a nivel de grado y de posgrado, tanto en cursos vinculados al análisis de datos como en otros enfocados en economía laboral y desarrollo.
+  Mi experiencia en docencia universitaria se ha desarrollado a nivel de grado y de posgrado, tanto en cursos vinculados al análisis de datos como en otros enfocados en economía laboral, desarrollo y metodología de la investigación en economía.
 ---
 
 ```{r setup, include=FALSE}
@@ -21,3 +21,5 @@ knitr::opts_chunk$set(echo = FALSE)
   - Desde 2021 participo en este curso basado en algunos capítulos de [La Economía](<https://www.core-econ.org/the-economy/es/>)
 - Bases de Datos y Paquetes - Licenciatura en Economía - FCEA - UdelaR.
   - Desde 2017 forma parte del equipo de este curso, donde acercamos a los estudiantes al uso de paquetes estadísticos y econométricos aplicados a la economía. Actualmente soy el responsable del módulo sobre el software estadístico [*R*](<https://www.r-project.org/>).
+- Introducción a la Metodología - Licenciatura en Economía - FCEA - UdelaR.
+  - Mi tarea consiste en dictar talleres sobre metodología de la investigación, así como guiar a los equipos en la elaboración de un proyecto.

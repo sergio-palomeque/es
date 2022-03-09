@@ -43,9 +43,11 @@ knitr::opts_chunk$set(echo = FALSE)
 # Trabajos en revisión de pares
 
 - Bianchi, C., Galaso, P., & Palomeque, S. Absorptive capacities and external openness in underdeveloped Innovation Systems: A patent network analysis for Latin American countries 1970-2017. En proceso de revisión de pares desde febrero de 2021 (ID number CJE-2021-059) en el *Cambridge Journal of Economics*; [Link](<https://academic.oup.com/cje>)
+- Bianchi, C., Galaso, P., Picasso, S., Palomeque, S. & Rodríguez Miranda, A. Invención y patentes en Uruguay: evidencia empírica entre 1970 y 2018. En proceso de revisión de pares desde febrero de 2022 (ID number 1.955) en *Revista española de documentación científica*; [link](https://redc.revistas.csic.es/index.php/redc/index)
 
 # Trabajos en marcha
 
 - Galaso, P., Palomeque, S., & Picasso, S. How to find the A-Team. A methodological proposal for identifying teams in co-authorship networks. Revista objetivo: *Social Networks*; [Link](https://www.journals.elsevier.com/social-networks)
-- Bianchi, C., Galaso, P., Picasso, S., Palomeque, S. & Rodríguez Miranda, A. Invención y patentes en Uruguay: evidencia empírica entre 1970 y 2018. Revista objetivo: *Revista española de documentación científica*; [Link](<https://redc.revistas.csic.es/index.php/redc/index>)
 - Bianchi, C., Galaso, P., Picasso, S., Palomeque, S. & Rodríguez Miranda, A. Redes de invención en Uruguay: estructura y evolución entre 1970 y 2018. Revista objetivo: *REDES Revista hispana para el análisis de redes sociales*; [Link](<https://revistes.uab.cat/redes/index>)
+- Bianchi, C., Galaso, P. & Palomeque, S. Structural holes and complexity. Revista objetivo: *Industrial and Corporate Change*; [link](https://academic.oup.com/icc/pages/call-for-papers)
+- Galaso, P. & Palomeque, S. Local Buzz and Global Pipelines in invention networks of cities. Revista objetivo: *Journal of Economic Geography*; [link](https://academic.oup.com/joeg)
