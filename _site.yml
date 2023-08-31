@@ -1,0 +1,19 @@
+name: "es"
+title: "Ec. Sergio Palomeque"
+theme: theme.css
+description: |
+  Ec. Sergio Palomeque
+output_dir: "docs"
+navbar:
+  logo:
+    image: sp.jpeg
+  right:
+    - text: "Acerca de..."
+      href: index.html
+    - text: "Investigación"
+      href: research.html
+    - text: "Docencia"
+      href: teach.html
+    - text: "EN"
+      href: https://sergio-palomeque.github.io/en/
+output: distill::distill_article

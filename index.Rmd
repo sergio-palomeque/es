@@ -1,0 +1,40 @@
+---
+title: "!Bienvenidos!"
+description: |
+  ![](sp.jpeg){width=120px}
+  
+  Mi nombre es Sergio Palomeque; soy profesor e investigador en el [Instituto de Economía del Departamento de Economía de la FCEA-UdelaR](https://iecon.fcea.udelar.edu.uy/en/){target="_blank"}, donde obtuve mi licenciatura y maestría en economía. Actualmente soy estudiante de doctorado en [FCE-UBA](http://www.economicas.uba.ar/doctorado/){target="_blank"}. Soy co-coordinador de la [Regional Studies Association Research Network on Knowledge, Innovation and Regional Development in South America (KIRDSA)](https://www.regionalstudies.org/network/knowledge-innovation-and-regional-development-in-south-america/){target="_blank"}
+  
+  En este sitio puede acceder a información sobre mis áreas de investigación, publicaciones, materiales y cursos.
+  
+  Los medios para ponerse en contacto conmigo y saber más sobre mi trabajo son:
+  
+  sergio.palomeque@fcea.edu.uy
+  
+  <!-- <a href="CV_SP_short.pdf" class="image fit"><img src="logos/cv.png" alt="" width="25px"></a>  -->
+  [![](logos/cv.png){width=30px}](https://www.dropbox.com/scl/fi/zjh8erwts9dlxl7snmr27/CV_SP_short.pdf?rlkey=jzw99sniwrv9r2srp3zfbx6av&dl=1){target="_blank"}
+  [![](logos/orcid.png){width=30px}](https://orcid.org/0000-0002-5396-3578){target="_blank"}
+  [![](logos/sc.png){width=30px}](https://www.scopus.com/authid/detail.uri?authorId=57220006530){target="_blank"}
+  [![](logos/git.png){width=30px}](https://github.com/sergio-palomeque){target="_blank"}
+  [![](logos/rg.png){width=30px}](https://www.researchgate.net/profile/Sergio-Palomeque){target="_blank"}
+  [![](logos/gsch.png){width=30px}](https://scholar.google.com/citations?hl=es&tzom=180&user=nvTbroQAAAAJ){target="_blank"}
+  [![](logos/cvuy.png){width=30px}](https://exportcvuy.anii.org.uy/cv/?4d1d53606c249c31e34388c44e7fc037da7e975686b0c0f01ce38f187b1d7f652ecd964138d57f7fccd37706e6fd07c11de0e83087b8c20e109d168b3b8ddfc2){target="_blank"}
+  [![](logos/x.png){width=30px}](https://twitter.com/sergi_palomeque){target="_blank"}
+  [![](logos/kirdsa.jpeg){width=50px}](https://www.regionalstudies.org/network/knowledge-innovation-and-regional-development-in-south-america/){target="_blank"}
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+# Create a GitHub website with distill 
+# https://www.youtube.com/watch?v=NLU05CopNzU
+
+```
+

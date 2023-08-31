@@ -1,0 +1,30 @@
+---
+title: "Docencia"
+description: |
+  Mi experiencia docente se ha desarrollado a nivel de grado y postgrado en cursos sobre análisis de redes sociales aplicado a la economía, economía laboral, desarrollo económico, metodología de la investigación en economía y análisis de datos mediante [*R*](<https://www.r-project.org/>){target="_blank"}.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Posgrado
+
+- Análisis de Redes Sociales - Maestría en Economía - FCEA - UdelaR.
+  - Desde 2018 imparto este curso junto con el Dr. Pablo Galaso. Existe una versión online del curso que puede consultarse en este [link](<https://sergio-palomeque.github.io/ARS_Course/>){target="_blank"}.
+- Tópicos de Economía Laboral - Maestría en Economía - FCEA - UdelaR.
+  - Desde 2017 participo en este curso junto con el Dr. Rodrigo Ceni y el Dr. Andrés Dean.
+
+# Grado
+
+- Bases de Datos y Paquetes Estadísticos - Licenciatura en Economía - FCEA - UdelaR.
+  - Desde 2017, formo parte del equipo de esta asignatura, en la que introducimos a los alumnos en el uso de paquetes estadísticos y econométricos aplicados a la economía. Actualmente soy responsable del módulo sobre software estadístico [*R*](<https://www.r-project.org/>){target="_blank"}.
+- Introducción a la Metodología de Investigación - Licenciatura en Economía - FCEA - UdelaR.
+  - Desde 2022, mi rol es conducir talleres sobre metodología de la investigación, así como guiar a los equipos en el desarrollo de un proyecto de investigación.
+- Desarrollo y Bienestar - Licenciatura en Economía - FCEA - UdelaR.
+  - Entre 2021 y 2022 participé en este curso basado en algunos capítulos de [La Economía](<https://www.core-econ.org/the-economy/en/>){target="_blank"}
+  
+# Talleres
+
+- Using patent data for collaboration network analysis. An application with USTPO data in PatentsView
+  - Junto con el Dr. Pablo Galaso, impartimos este [taller](https://www.insna.org/using-patent-data-for-collaboration-network-analysis-an-application-with-ustpo-data-in-patentsview){target="_blank"} en el Congreso Sunbelt 2023. Se trata de la reunión anual de la International Network for Social Network Analysis, una de las dos comunidades de análisis de redes sociales más importantes del mundo.
