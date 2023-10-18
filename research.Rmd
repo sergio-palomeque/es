@@ -37,13 +37,14 @@ Bianchi, C., Galaso, P.,& Palomeque, S. (2023). Knowledge complexity and brokera
 </p>
 </div>
 
-- Bianchi, C., Galaso, P., & Palomeque, S. (forthcoming). Absorptive capacities and external openness in underdeveloped Innovation Systems: A patent network analysis for Latin American countries 1970-2017. [*Cambridge Journal of Economics*](https://academic.oup.com/cje){target="_blank"}. <https://doi.org/10.1093/cje/bead034>{target="_blank"}
+- Bianchi, C., Galaso, P., & Palomeque, S. (2023). Absorptive capacities and external openness in underdeveloped Innovation Systems: A patent network analysis for Latin American countries 1970-2017. [*Cambridge Journal of Economics*](https://academic.oup.com/cje){target="_blank"}. <https://doi.org/10.1093/cje/bead034>{target="_blank"}
 
-<!-- <div> -->
-<!-- <p style = 'text-align:center;'> -->
+<div>
+<p style = 'text-align:center;'>
+<img src="papers/bgp2023b.png" alt="JuveYell" width="300px">
 <!-- <img src="papers/bgpFCCS.png" alt="JuveYell" width="150px"> -->
-<!-- </p> -->
-<!-- </div> -->
+</p>
+</div>
 
 - Bianchi, C., Galaso, P., Palomeque, S., Picasso, S., & Rodríguez Miranda, A. (2023). Innovación en Uruguay entre 1970 y 2018: una aproximación a través de los datos de patentes. [*Revista Española de Documentación Científica*](https://redc.revistas.csic.es/index.php/redc){target="_blank"}, 46(3), e364. <https://doi.org/10.3989/redc.2023.3.1955>{target="_blank"}
 
@@ -88,7 +89,7 @@ Bianchi, C., Galaso, P.,& Palomeque, S. (2023). Knowledge complexity and brokera
 
 # Trabajo en progreso
 
-- Bianchi, C., Galaso, P., & Palomeque, S. Cities’ technological portfolio: internal absorptive capacities and external collaboration complementarity. Objective journal: [*Economic Geography*](https://www.tandfonline.com/journals/recg20){target="_blank"}
+- Bianchi, C., Boschma, R., Galaso, P., & Palomeque, S. Cities’ technological portfolio: internal absorptive capacities and external collaboration complementarity. Objective journal: [*Economic Geography*](https://www.tandfonline.com/journals/recg20){target="_blank"}
 - Bianchi, C., Palomeque, S & Rapini, M. University patents in a peripheral system: from individual-led towards an organizational change in patenting activities. Objective journal: [*Science and Public Policy*](https://academic.oup.com/spp){target="_blank"}
 - Galaso, P., \& Palomeque, S. The effects of local and global networks on cities’ innovation: improving locally while competing globally. Objective journal: [*Research Policy*](https://www.sciencedirect.com/journal/research-policy){target="_blank"}
 - Galaso, P., \& Palomeque, S. Brain drain or brain circulation? a study of the academic collaboration network in Uruguay. Objective journal: [*Scientometrics*](https://www.springer.com/journal/11192){target="_blank"}
